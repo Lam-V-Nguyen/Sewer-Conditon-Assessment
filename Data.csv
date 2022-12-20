@@ -1,0 +1,467 @@
+PipeID,Age,Diameter,Depth,Slope,Length,PipeType,NetworkTyp,Connection,PipeForm,Material,Rainfall,Geology,GroundWate,SoilType,Building,LandCover,RoadClass,TrafficVol,Population,Score,Class
+"4839","48","225",-2.15,0.61,54.53,Combined,Main,MUF,S,BET,153.11,Geology_1,24.60,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,213.16,"35",Bad
+"4850","48","150",-2.03,0.04,48.94,Combined,Main,MUF,S,BET,152.92,Geology_1,24.55,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,12.30,"2222",Very bad
+"4919","67","250",-1.13,0.95,80.24,Wastewater,Main,MUF,S,BET,151.72,Geology_3,33.44,Soiltype_6,Yes,LandUse_10,RoadClass_1,0.00,133.22,"13",Questionable
+"4931","39","200",-1.91,-5.91,1.67,Combined,Main,Others,S,PVC,151.13,Geology_3,34.72,Soiltype_6,No,LandUse_10,RoadClass_5,0.00,141.42,"67",Very bad
+"4956","46","160",-2.10,0.74,23.56,Stormwater,Main,MUF,S,PVC,146.99,Geology_3,14.87,Soiltype_14,No,LandUse_10,RoadClass_1,0.00,71.74,"176",Very bad
+"5177","55","160",-3.55,2.96,18.02,Combined,Main,MUF,S,PVC,144.38,Geology_3,19.81,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,209.06,"0",Very good
+"5236","51","600",-1.60,-0.78,35.58,Stormwater,Main,MUF,S,BET,136.57,Geology_3,18.60,Soiltype_13,No,LandUse_10,RoadClass_2,0.00,79.93,"145",Very bad
+"53252","43","1000",-2.27,2.53,21.93,Stormwater,Main,MUF,S,BET,148.93,Geology_3,10.89,Soiltype_13,Yes,LandUse_10,RoadClass_5,0.00,72.76,"57",Very bad
+"53275","43","1000",-2.85,4.94,27.12,Stormwater,Main,MUF,S,BET,149.06,Geology_3,10.93,Soiltype_13,No,LandUse_10,RoadClass_5,0.00,72.76,"45",Bad
+"53504","22","1000",-2.19,2.94,11.18,Stormwater,Main,MUF,S,BET,149.55,Geology_3,11.59,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,72.76,"0",Very good
+"53571","43","800",-1.96,2.15,18.46,Stormwater,Main,MUF,S,BET,149.39,Geology_4,11.34,Soiltype_7,No,LandUse_10,RoadClass_1,0.00,72.76,"0",Very good
+"53898","34","200",-2.04,2.12,21.98,Wastewater,Main,Others,S,PVC,148.63,Geology_4,5.81,Soiltype_7,No,LandUse_10,RoadClass_4,0.00,122.98,"9",Good
+"53983","23","250",-1.94,0.61,57.49,Stormwater,Main,MUF,S,BET,148.35,Geology_4,6.27,Soiltype_7,No,LandUse_10,RoadClass_1,0.00,83.01,"25",Bad
+"53984","23","300",-2.00,1.47,5.92,Stormwater,Main,MUF,S,BET,148.41,Geology_4,6.51,Soiltype_7,No,LandUse_10,RoadClass_2,0.00,83.01,"113",Very bad
+"54399","28","250",-1.64,2.36,48.81,Wastewater,Main,Others,S,PVC,149.58,Geology_3,12.45,Soiltype_10,No,LandUse_10,RoadClass_2,0.00,92.23,"0",Very good
+"54433","52","600",-2.03,2.30,25.91,Stormwater,Main,MUF,S,BET,150.55,Geology_3,14.23,Soiltype_5,No,LandUse_10,RoadClass_4,0.00,207.01,"30",Bad
+"54434","52","200",-2.00,1.10,7.51,Wastewater,Main,MUF,S,BET,150.52,Geology_3,14.14,Soiltype_5,No,LandUse_10,RoadClass_4,0.00,207.01,"0",Very good
+"54435","52","200",-2.03,2.34,25.14,Wastewater,Main,MUF,S,BET,150.57,Geology_3,14.23,Soiltype_5,No,LandUse_10,RoadClass_4,0.00,207.01,"12",Questionable
+"54436","52","600",-2.03,1.84,34.75,Stormwater,Main,MUF,S,BET,150.63,Geology_3,14.11,Soiltype_5,No,LandUse_10,RoadClass_4,0.00,207.01,"15",Questionable
+"54437","52","200",-2.05,1.73,34.18,Wastewater,Main,MUF,S,BET,150.63,Geology_3,14.11,Soiltype_5,No,LandUse_10,RoadClass_4,0.00,207.01,"41",Bad
+"54466","31","400",-1.64,-0.41,25.93,Combined,Main,Others,S,PVC,149.75,Geology_3,13.40,Soiltype_10,No,LandUse_10,RoadClass_4,0.00,92.23,"0",Very good
+"55333","45","700",-1.71,1.34,58.62,Combined,Main,MUF,S,BET,151.47,Geology_3,21.59,Soiltype_3,No,LandUse_10,RoadClass_2,0.00,63.54,"70",Very bad
+"55355","60","200",-1.94,0.14,12.67,Stormwater,Main,Others,S,PVC,151.57,Geology_3,21.23,Soiltype_3,No,LandUse_10,RoadClass_1,0.00,63.54,"0",Very good
+"55407","47","300",-2.10,0.64,51.51,Wastewater,Main,MUF,S,BET,152.86,Geology_1,22.43,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,137.32,"51",Very bad
+"55424","47","200",-2.11,0.37,47.38,Wastewater,Main,MUF,S,BET,152.01,Geology_1,20.97,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,69.69,"13",Questionable
+"55432","47","200",-2.03,0.88,41.88,Stormwater,Main,MUF,S,BET,151.92,Geology_1,20.56,Soiltype_5,No,LandUse_10,RoadClass_4,0.00,69.69,"0",Very good
+"55433","47","200",-2.08,0.70,42.68,Wastewater,Main,MUF,S,BET,151.92,Geology_1,20.56,Soiltype_5,No,LandUse_10,RoadClass_4,0.00,69.69,"2",Very good
+"55434","47","200",-2.09,-0.59,46.35,Stormwater,Main,MUF,S,BET,151.91,Geology_1,20.18,Soiltype_5,No,LandUse_10,RoadClass_4,0.00,69.69,"17",Questionable
+"55435","47","200",-2.11,-0.46,45.61,Wastewater,Main,MUF,S,BET,151.91,Geology_1,20.18,Soiltype_5,No,LandUse_10,RoadClass_4,0.00,69.69,"2",Very good
+"55436","47","200",-1.90,0.73,63.96,Stormwater,Main,MUF,S,BET,151.87,Geology_1,19.64,Soiltype_5,Yes,LandUse_10,RoadClass_3,0.00,69.69,"3",Very good
+"55437","47","200",-1.84,0.84,64.43,Wastewater,Main,MUF,S,BET,151.87,Geology_1,19.64,Soiltype_5,Yes,LandUse_10,RoadClass_3,0.00,69.69,"0",Very good
+"55461","47","160",-1.66,0.72,74.20,Wastewater,Main,Others,S,PVC,152.61,Geology_1,21.35,Soiltype_5,No,LandUse_10,RoadClass_3,0.00,111.70,"19",Questionable
+"55463","47","160",-2.29,1.30,88.86,Wastewater,Main,Others,S,PVC,152.74,Geology_1,21.44,Soiltype_6,No,LandUse_10,RoadClass_5,0.00,137.32,"68",Very bad
+"55465","47","160",-2.00,1.40,40.67,Wastewater,Main,Others,S,PVC,152.84,Geology_1,21.49,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,137.32,"115",Very bad
+"55486","47","160",-3.05,2.43,46.76,Wastewater,Main,Others,S,PVC,152.87,Geology_1,21.04,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,79.93,"0",Very good
+"55488","47","160",-1.70,-0.13,48.42,Wastewater,Main,Others,S,PVC,152.88,Geology_1,21.33,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,79.93,"4",Very good
+"55538","60","225",-2.28,1.33,45.75,Combined,Main,MUF,S,BET,150.99,Geology_3,18.74,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,63.54,"89",Very bad
+"56022","48","225",-1.88,-0.20,43.00,Wastewater,Main,MUF,S,BET,149.94,Geology_1,24.65,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,263.37,"18",Questionable
+"56024","48","225",-1.95,-0.14,40.68,Wastewater,Main,MUF,S,BET,149.74,Geology_1,24.52,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,95.31,"69",Very bad
+"56025","48","150",-2.18,3.71,24.08,Wastewater,Main,MUF,S,BET,149.64,Geology_1,24.48,Soiltype_5,No,LandUse_10,RoadClass_4,0.00,95.31,"34",Bad
+"56026","48","150",-2.11,0.21,44.25,Wastewater,Main,MUF,S,BET,149.55,Geology_1,24.65,Soiltype_5,No,LandUse_10,RoadClass_3,0.00,95.31,"118",Very bad
+"56027","48","150",-2.01,0.26,61.31,Wastewater,Main,MUF,S,BET,149.34,Geology_1,24.58,Soiltype_5,Yes,LandUse_10,RoadClass_4,0.00,51.24,"134",Very bad
+"56621","42","225",-2.46,7.14,52.76,Wastewater,Main,MUF,S,BET,152.48,Geology_3,24.51,Soiltype_5,No,LandUse_10,RoadClass_2,0.00,184.46,"0",Very good
+"56636","30","200",-1.67,5.29,93.23,Stormwater,Main,MUF,S,BET,151.49,Geology_3,23.47,Soiltype_5,No,LandUse_10,RoadClass_2,0.00,236.73,"34",Bad
+"56646","30","200",-1.91,2.21,58.12,Stormwater,Main,MUF,S,BET,151.50,Geology_3,24.15,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,236.73,"10",Good
+"56648","30","200",-1.05,2.82,56.87,Stormwater,Main,MUF,S,BET,151.53,Geology_3,24.66,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,236.73,"4",Very good
+"56658","64","250",-1.91,1.85,40.65,Combined,Main,MUF,S,BET,152.01,Geology_3,24.33,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,184.46,"25",Bad
+"56660","64","250",-1.76,-0.21,46.83,Wastewater,Main,MUF,S,BET,151.87,Geology_3,24.02,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,236.73,"164",Very bad
+"56663","42","225",-3.08,4.04,65.23,Wastewater,Main,MUF,S,BET,152.47,Geology_3,24.98,Soiltype_6,No,LandUse_10,RoadClass_3,0.00,184.46,"0",Very good
+"56667","42","200",-2.05,0.46,40.40,Wastewater,Main,MUF,S,BET,152.46,Geology_3,25.40,Soiltype_6,No,LandUse_10,RoadClass_3,0.00,184.46,"0",Very good
+"56671","7","225",-2.41,0.79,50.06,Combined,Main,MUF,S,Others,152.47,Geology_3,25.40,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,184.46,"567",Very bad
+"56673","7","300",-3.47,5.58,116.85,Combined,Main,MUF,S,Others,152.48,Geology_3,24.76,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,184.46,"101",Very bad
+"56674","42","200",-1.84,0.76,40.75,Wastewater,Main,MUF,S,BET,152.45,Geology_1,25.75,Soiltype_6,No,LandUse_10,RoadClass_3,0.00,184.46,"0",Very good
+"56680","42","300",-1.91,-0.57,40.20,Stormwater,Main,MUF,S,BET,152.40,Geology_1,25.87,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,184.46,"7",Good
+"56684","42","160",-1.89,0.55,43.18,Wastewater,Main,Others,S,PVC,152.40,Geology_1,25.87,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,184.46,"10",Good
+"56685","42","160",-1.55,2.57,41.06,Wastewater,Main,Others,S,PVC,152.45,Geology_1,26.08,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,184.46,"20",Questionable
+"56689","12","150",-2.14,0.30,41.03,Wastewater,Main,MUF,S,BET,152.40,Geology_1,26.32,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,212.13,"0",Very good
+"56691","42","160",-1.66,3.14,33.12,Wastewater,Main,Others,S,PVC,152.36,Geology_1,26.45,Soiltype_6,No,LandUse_10,RoadClass_3,0.00,212.13,"9",Good
+"56692","42","125",-1.97,1.01,23.79,Wastewater,Main,MUF,S,PVC,152.33,Geology_1,26.52,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,212.13,"10",Good
+"56693","42","160",-2.02,1.76,44.45,Wastewater,Main,Others,S,PVC,152.31,Geology_1,25.93,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,184.46,"12",Questionable
+"56696","42","300",-2.00,-1.74,45.15,Stormwater,Main,MUF,S,BET,152.31,Geology_1,25.87,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,184.46,"32",Bad
+"56700","42","160",-2.02,0.28,70.65,Wastewater,Main,Others,S,PVC,152.17,Geology_1,25.87,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,184.46,"4",Very good
+"56701","42","300",-2.02,0.29,70.38,Stormwater,Main,MUF,S,BET,152.18,Geology_1,25.87,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,184.46,"333",Very bad
+"56703","42","150",-1.77,0.25,55.15,Stormwater,Main,MUF,S,BET,152.01,Geology_3,25.77,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,212.13,"2",Very good
+"56705","42","200",-1.97,0.29,30.16,Stormwater,Main,MUF,S,BET,152.12,Geology_1,26.28,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,212.13,"1373",Very bad
+"56706","42","200",-2.22,4.23,46.41,Stormwater,Main,MUF,S,BET,152.09,Geology_1,26.04,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,212.13,"86",Very bad
+"56708","42","160",-2.00,0.28,30.17,Wastewater,Main,Others,S,PVC,152.12,Geology_1,26.28,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,212.13,"20",Questionable
+"56709","42","160",-1.90,-0.38,23.74,Wastewater,Main,Others,S,PVC,152.18,Geology_1,26.34,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,212.13,"9",Good
+"56711","42","200",-1.88,-0.42,25.30,Stormwater,Main,MUF,S,BET,152.18,Geology_1,26.34,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,212.13,"180",Very bad
+"56744","60","225",-2.36,6.51,36.10,Combined,Main,MUF,S,BET,152.71,Geology_1,24.99,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,171.14,"231",Very bad
+"56748","48","160",-1.92,0.52,26.70,Combined,Main,MUF,S,PVC,152.88,Geology_1,24.59,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,171.14,"0",Very good
+"56757","60","150",-1.85,0.26,35.03,Wastewater,Main,MUF,S,BET,152.74,Geology_1,25.56,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,171.14,"25",Bad
+"56843","64","225",-1.91,0.74,6.36,Combined,Main,MUF,S,BET,152.18,Geology_3,24.46,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,184.46,"0",Very good
+"56844","64","225",-2.18,1.27,45.73,Combined,Main,MUF,S,BET,152.12,Geology_3,24.39,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,184.46,"0",Very good
+"56845","42","160",-2.22,4.37,45.14,Wastewater,Main,Others,S,PVC,152.09,Geology_1,26.04,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,212.13,"0",Very good
+"57153","48","300",-2.97,4.54,29.74,Combined,Main,MUF,S,BET,152.95,Geology_1,24.43,Soiltype_5,No,LandUse_10,RoadClass_2,0.00,12.30,"68",Very bad
+"57155","48","150",-2.55,4.31,26.26,Combined,Main,MUF,S,BET,152.95,Geology_1,24.43,Soiltype_5,No,LandUse_10,RoadClass_2,0.00,12.30,"29",Bad
+"57159","48","300",-1.63,1.87,64.99,Combined,Main,MUF,S,BET,152.94,Geology_1,24.69,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,194.71,"144",Very bad
+"57170","48","300",-1.66,0.58,36.81,Combined,Main,MUF,S,BET,153.13,Geology_1,24.26,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,4.10,"7",Good
+"57205","48","225",-1.72,2.85,53.21,Combined,Main,MUF,S,BET,153.02,Geology_1,25.04,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,194.71,"53",Very bad
+"57209","48","225",-2.01,2.55,58.64,Combined,Main,MUF,S,BET,153.03,Geology_1,25.69,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,194.71,"35",Bad
+"57214","48","225",-1.99,0.33,53.39,Combined,Main,MUF,S,BET,153.08,Geology_1,24.72,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,194.71,"168",Very bad
+"57217","48","225",-2.16,-0.18,44.35,Combined,Main,MUF,S,BET,153.08,Geology_1,24.94,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,194.71,"202",Very bad
+"57218","48","225",-1.61,4.14,55.30,Combined,Main,MUF,S,BET,153.08,Geology_1,25.22,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,194.71,"38",Bad
+"57219","48","225",-2.35,2.73,43.41,Combined,Main,MUF,S,BET,153.09,Geology_1,25.54,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,194.71,"79",Very bad
+"57220","48","225",-2.11,2.28,53.24,Combined,Main,MUF,S,BET,153.09,Geology_1,25.85,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,194.71,"36",Bad
+"57222","48","225",-2.02,1.00,50.89,Combined,Main,MUF,S,BET,153.10,Geology_1,26.17,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,64.56,"104",Very bad
+"57223","48","225",-1.57,2.04,59.16,Combined,Main,MUF,S,BET,153.11,Geology_1,26.54,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,65.59,"62",Very bad
+"57233","48","225",-1.89,1.27,52.36,Combined,Main,MUF,S,BET,153.12,Geology_1,24.85,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,213.16,"72",Very bad
+"57234","48","225",-1.94,1.17,9.27,Combined,Main,MUF,S,BET,153.13,Geology_1,25.25,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,213.16,"143",Very bad
+"57235","48","225",-1.85,2.31,54.88,Combined,Main,MUF,S,BET,153.14,Geology_1,25.70,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,213.16,"834",Very bad
+"57237","48","200",-2.87,3.20,63.82,Combined,Main,MUF,S,PVC,153.16,Geology_1,26.56,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,65.59,"423",Very bad
+"57247","48","300",-2.06,0.72,46.15,Combined,Main,MUF,S,BET,153.13,Geology_1,24.42,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,213.16,"48",Bad
+"57248","48","225",-2.05,0.16,52.01,Combined,Main,MUF,S,BET,153.14,Geology_1,24.63,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,213.16,"82",Very bad
+"57252","48","200",-2.23,3.70,56.63,Combined,Main,MUF,S,BET,153.17,Geology_1,25.34,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,213.16,"80",Very bad
+"57253","48","200",-1.85,5.07,47.42,Combined,Main,MUF,S,BET,153.18,Geology_1,25.88,Soiltype_13,No,LandUse_10,RoadClass_1,0.00,65.59,"69",Very bad
+"57254","48","225",-2.08,0.22,8.84,Combined,Main,MUF,S,BET,153.20,Geology_1,26.21,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,65.59,"64",Very bad
+"57268","36","160",-2.35,5.76,29.41,Wastewater,Main,Others,S,PVC,153.16,Geology_1,24.68,Soiltype_13,No,LandUse_10,RoadClass_2,0.00,9.22,"27",Bad
+"57269","36","160",-1.83,3.93,28.54,Wastewater,Main,Others,S,PVC,153.17,Geology_1,25.15,Soiltype_13,No,LandUse_10,RoadClass_1,0.00,9.22,"4",Very good
+"57279","34","160",-2.12,4.11,19.90,Wastewater,Main,Others,S,PVC,153.18,Geology_1,24.84,Soiltype_13,No,LandUse_10,RoadClass_2,0.00,71.74,"5",Very good
+"57282","34","160",-2.03,2.56,63.85,Wastewater,Main,Others,S,PVC,153.19,Geology_1,24.96,Soiltype_13,No,LandUse_10,RoadClass_2,0.00,71.74,"2",Very good
+"57286","42","225",-2.57,4.93,45.72,Wastewater,Main,MUF,S,BET,153.20,Geology_1,24.70,Soiltype_13,No,LandUse_10,RoadClass_3,0.00,71.74,"18",Questionable
+"57290","42","200",-2.71,1.66,32.62,Wastewater,Main,MUF,S,BET,153.22,Geology_1,24.27,Soiltype_13,No,LandUse_10,RoadClass_1,0.00,71.74,"0",Very good
+"57300","42","160",-1.97,5.18,56.84,Wastewater,Main,Others,S,PVC,153.21,Geology_1,24.93,Soiltype_13,No,LandUse_10,RoadClass_1,0.00,71.74,"5",Very good
+"57310","42","160",-1.91,1.69,39.94,Wastewater,Main,Others,S,PVC,153.21,Geology_1,25.22,Soiltype_13,No,LandUse_10,RoadClass_2,0.00,71.74,"0",Very good
+"57311","42","160",-2.22,4.84,29.32,Wastewater,Main,Others,S,PVC,153.20,Geology_1,25.45,Soiltype_13,No,LandUse_10,RoadClass_2,0.00,71.74,"48",Bad
+"57324","42","200",-2.25,0.09,50.06,Wastewater,Main,MUF,S,BET,153.22,Geology_1,24.03,Soiltype_13,No,LandUse_10,RoadClass_3,0.00,96.33,"16",Questionable
+"57337","48","225",-2.17,3.11,46.98,Combined,Main,MUF,S,BET,153.03,Geology_1,25.36,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,194.71,"9",Good
+"57394","42","200",-2.69,19.99,11.84,Wastewater,Main,MUF,S,BET,153.30,Geology_3,24.45,Soiltype_6,No,LandUse_10,RoadClass_5,0.00,71.74,"716",Very bad
+"57395","42","200",-1.75,2.02,17.17,Wastewater,Main,MUF,S,BET,153.29,Geology_3,24.44,Soiltype_6,No,LandUse_10,RoadClass_5,0.00,71.74,"0",Very good
+"57498","34","315",-1.59,2.08,52.17,Wastewater,Main,Others,S,PVC,153.25,Geology_3,22.25,Soiltype_13,No,LandUse_30,RoadClass_5,0.00,,"0",Very good
+"57500","34","315",-2.08,-1.38,38.41,Wastewater,Main,Others,S,PVC,153.29,Geology_3,22.02,Soiltype_13,No,LandUse_30,RoadClass_5,0.00,,"0",Very good
+"57502","34","315",-1.74,-0.53,40.74,Wastewater,Main,Others,S,PVC,153.32,Geology_3,21.81,Soiltype_13,No,LandUse_30,RoadClass_5,0.00,,"0",Very good
+"57504","34","315",-1.76,0.20,55.01,Wastewater,Main,Others,S,PVC,153.38,Geology_3,21.59,Soiltype_13,No,LandUse_30,RoadClass_5,0.00,,"0",Very good
+"57506","34","315",-2.09,0.25,53.63,Wastewater,Main,Others,S,PVC,153.47,Geology_3,21.34,Soiltype_5,No,LandUse_30,RoadClass_5,0.00,,"0",Very good
+"57510","34","315",-1.33,-0.07,54.84,Wastewater,Main,Others,S,PVC,153.67,Geology_3,20.76,Soiltype_13,No,LandUse_20,RoadClass_5,0.00,19.47,"0",Very good
+"57512","34","315",-2.09,-0.33,40.64,Wastewater,Main,Others,S,PVC,153.75,Geology_3,20.55,Soiltype_13,No,LandUse_20,RoadClass_5,0.00,19.47,"0",Very good
+"57514","34","315",-1.60,0.47,50.50,Wastewater,Main,Others,S,PVC,153.86,Geology_3,20.32,Soiltype_13,No,LandUse_20,RoadClass_5,0.00,19.47,"0",Very good
+"57516","34","315",-1.85,0.50,30.42,Wastewater,Main,Others,S,PVC,153.97,Geology_3,20.13,Soiltype_6,No,LandUse_20,RoadClass_5,0.00,19.47,"0",Very good
+"57518","34","315",-1.95,-0.28,55.01,Wastewater,Main,Others,S,PVC,154.08,Geology_3,19.91,Soiltype_6,No,LandUse_20,RoadClass_5,0.00,19.47,"5",Very good
+"57520","34","315",-1.80,-0.16,22.23,Wastewater,Main,Others,S,PVC,154.21,Geology_3,19.72,Soiltype_6,No,LandUse_20,RoadClass_5,0.00,19.47,"0",Very good
+"57532","36","160",-1.62,10.21,49.58,Wastewater,Main,Others,S,PVC,153.35,Geology_3,23.36,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,26.64,"6",Good
+"57545","6","500",1.54,5.08,106.51,Stormwater,Main,Others,S,Others,153.30,Geology_3,23.26,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,96.33,"77",Very bad
+"57602","34","315",-2.18,0.34,59.60,Wastewater,Main,Others,S,PVC,153.18,Geology_1,22.98,,No,LandUse_10,RoadClass_5,0.00,96.33,"0",Very good
+"57604","34","315",-3.16,0.23,33.77,Wastewater,Main,Others,S,PVC,153.19,Geology_1,22.77,Soiltype_13,No,LandUse_10,RoadClass_5,0.00,96.33,"0",Very good
+"57606","34","315",-1.86,1.97,9.90,Wastewater,Main,Others,S,PVC,153.21,Geology_1,22.69,Soiltype_13,No,LandUse_10,RoadClass_4,0.00,96.33,"0",Very good
+"57614","34","315",-1.97,-0.07,57.92,Wastewater,Main,Others,S,PVC,153.22,Geology_3,22.52,Soiltype_13,No,LandUse_30,RoadClass_4,0.00,,"0",Very good
+"60609","66","300",-2.35,9.51,25.71,Combined,Main,MUF,S,BET,129.99,Geology_3,16.58,Soiltype_13,Yes,LandUse_10,RoadClass_1,0.00,185.49,"118",Very bad
+"61396","53","250",-1.92,1.84,38.57,Stormwater,Main,MUF,S,BET,132.48,Geology_3,20.00,Soiltype_7,No,LandUse_10,RoadClass_1,0.00,106.58,"60",Very bad
+"61398","53","200",-2.66,13.28,25.67,Combined,Main,MUF,S,BET,132.41,Geology_3,19.99,Soiltype_7,No,LandUse_10,RoadClass_2,0.00,106.58,"55",Very bad
+"61403","8","225",-1.32,17.73,23.08,Wastewater,Main,MUF,S,Others,132.93,Geology_3,20.09,Soiltype_7,No,LandUse_10,RoadClass_3,0.00,106.58,"129",Very bad
+"61404","8","250",-1.77,18.62,22.84,Stormwater,Main,MUF,S,Others,132.97,Geology_3,20.09,Soiltype_7,No,LandUse_10,RoadClass_3,0.00,106.58,"17",Questionable
+"61867","55","125",-1.88,0.85,39.79,Combined,Main,MUF,S,BET,132.46,Geology_3,19.43,Soiltype_7,No,LandUse_10,RoadClass_2,0.00,95.31,"12",Questionable
+"61872","50","200",-1.81,0.22,43.45,Wastewater,Main,Others,S,PVC,132.55,Geology_1,19.54,Soiltype_7,No,LandUse_10,RoadClass_1,0.00,95.31,"52",Very bad
+"61917","50","200",-1.63,-0.75,51.63,Wastewater,Main,Others,S,PVC,132.84,Geology_1,19.58,Soiltype_7,No,LandUse_30,RoadClass_1,0.00,95.31,"34",Bad
+"61920","50","200",-2.20,-0.46,56.29,Wastewater,Main,Others,S,PVC,133.13,Geology_1,19.64,Soiltype_7,No,LandUse_10,RoadClass_1,0.00,95.31,"9",Good
+"62010","53","200",-1.72,-1.31,28.19,Wastewater,Main,MUF,S,BET,133.72,Geology_1,20.04,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,276.70,"93",Very bad
+"62018","53","200",-2.04,1.48,45.71,Wastewater,Main,MUF,S,BET,133.96,Geology_1,20.05,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,276.70,"101",Very bad
+"62040","53","150",-1.90,2.32,28.31,Wastewater,Main,MUF,S,BET,134.52,Geology_1,20.12,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,276.70,"195",Very bad
+"62041","53","150",-2.59,3.55,42.00,Wastewater,Main,MUF,S,BET,134.27,Geology_1,20.09,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,276.70,"325",Very bad
+"62042","53","150",-2.73,3.82,43.28,Stormwater,Main,MUF,S,PVC,134.27,Geology_1,20.10,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,276.70,"482",Very bad
+"62426","29","500",-2.10,-0.37,33.98,Combined,Main,Others,S,PVC,135.49,Geology_3,18.41,Soiltype_13,No,LandUse_10,RoadClass_3,0.00,16.40,"8",Good
+"62491","65","225",-2.08,2.26,43.23,Combined,Main,MUF,S,BET,130.93,Geology_3,19.13,Soiltype_7,No,LandUse_10,RoadClass_1,0.00,122.98,"7",Good
+"62492","65","230",-2.55,4.58,45.32,Combined,Main,MUF,S,BET,131.15,Geology_3,19.16,Soiltype_7,No,LandUse_10,RoadClass_1,0.00,122.98,"8",Good
+"62494","52","150",-1.91,0.50,42.01,Wastewater,Main,MUF,S,BET,131.74,Geology_3,19.06,Soiltype_7,No,LandUse_10,RoadClass_2,0.00,122.98,"177",Very bad
+"62495","52","150",-2.03,1.25,38.07,Wastewater,Main,MUF,S,BET,131.89,Geology_3,19.10,Soiltype_7,No,LandUse_10,RoadClass_2,0.00,122.98,"130",Very bad
+"62552","36","200",-1.48,18.97,13.58,Combined,Main,Others,S,PVC,132.69,Geology_3,18.60,Soiltype_13,No,LandUse_10,RoadClass_4,0.00,161.92,"242",Very bad
+"62570","55","150",-2.93,5.38,67.74,Combined,Main,MUF,S,BET,132.74,Geology_3,19.08,Soiltype_7,No,LandUse_10,RoadClass_3,0.00,133.22,"171",Very bad
+"62571","55","225",-1.62,2.94,22.39,Combined,Main,MUF,S,BET,133.04,Geology_3,19.10,Soiltype_7,No,LandUse_10,RoadClass_2,0.00,133.22,"25",Bad
+"62573","55","400",-1.79,2.07,34.11,Stormwater,Main,MUF,S,BET,133.11,Geology_3,19.08,Soiltype_7,No,LandUse_10,RoadClass_1,0.00,133.22,"78",Very bad
+"62574","52","300",-0.31,6.22,81.01,Stormwater,Main,MUF,S,BET,132.92,Geology_3,19.15,Soiltype_7,Yes,LandUse_10,RoadClass_4,0.00,133.22,"30",Bad
+"62575","55","400",-2.03,2.44,25.53,Stormwater,Main,MUF,S,PVC,133.31,Geology_3,19.10,Soiltype_13,No,LandUse_10,RoadClass_3,0.00,133.22,"0",Very good
+"62583","51","315",-1.85,-0.81,21.84,Combined,Main,Others,S,PVC,134.20,Geology_3,18.77,Soiltype_13,Yes,LandUse_10,RoadClass_2,0.00,72.76,"0",Very good
+"62586","44","1000",-2.50,0.52,77.49,Stormwater,Main,MUF,S,BET,134.20,Geology_3,18.77,Soiltype_13,Yes,LandUse_10,RoadClass_3,0.00,72.76,"19",Questionable
+"62631","55","375",-2.04,7.05,86.11,Combined,Main,MUF,S,BET,133.01,Geology_3,19.17,Soiltype_7,No,LandUse_10,RoadClass_4,0.00,133.22,"17",Questionable
+"63102","48","185",-1.99,-0.05,25.97,Wastewater,Main,MUF,S,PVC,140.68,Geology_3,16.90,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,81.98,"560",Very bad
+"63124","51","225",-1.98,2.96,35.57,Wastewater,Main,MUF,S,BET,136.74,Geology_3,18.62,Soiltype_13,No,LandUse_10,RoadClass_3,0.00,79.93,"111",Very bad
+"63125","51","375",-2.07,3.34,30.84,Stormwater,Main,MUF,S,BET,136.74,Geology_3,18.62,Soiltype_13,No,LandUse_10,RoadClass_3,0.00,79.93,"62",Very bad
+"63128","51","375",-2.17,3.08,36.40,Stormwater,Main,MUF,S,BET,136.70,Geology_3,18.65,Soiltype_13,No,LandUse_10,RoadClass_2,0.00,79.93,"1200",Very bad
+"63129","51","375",-2.03,1.66,8.18,Stormwater,Main,MUF,S,BET,136.71,Geology_3,18.59,Soiltype_13,No,LandUse_10,RoadClass_1,0.00,79.93,"478",Very bad
+"63134","51","300",-2.00,2.62,38.40,Stormwater,Main,MUF,S,BET,136.41,Geology_3,18.88,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,128.10,"0",Very good
+"63138","51","300",-1.99,0.53,28.79,Stormwater,Main,MUF,S,BET,136.32,Geology_3,18.94,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,128.10,"59",Very bad
+"63150","51","225",-1.35,1.89,66.47,Wastewater,Main,Others,S,BET,136.75,Geology_3,18.79,Soiltype_13,No,LandUse_10,RoadClass_1,0.00,79.93,"67",Very bad
+"63182","53","300",-2.56,5.99,53.17,Combined,Main,MUF,S,BET,138.83,Geology_3,18.15,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,150.65,"30",Bad
+"63188","53","300",-1.96,5.85,28.62,Combined,Main,MUF,S,BET,138.88,Geology_3,18.31,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,150.65,"11",Questionable
+"63193","53","300",-2.18,4.77,54.95,Combined,Main,MUF,S,BET,138.89,Geology_3,18.46,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,150.65,"310",Very bad
+"63267","48","600",-3.56,3.63,90.59,Stormwater,Main,MUF,S,BET,141.35,Geology_3,17.40,Soiltype_6,Yes,LandUse_10,RoadClass_4,0.00,81.98,"1200",Very bad
+"63625","8","225",-2.27,2.39,40.62,Wastewater,Main,MUF,S,Others,136.33,Geology_1,20.41,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,111.70,"57",Very bad
+"63631","8","225",-1.91,-2.03,41.25,Wastewater,Main,MUF,S,Others,136.05,Geology_1,20.36,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,111.70,"0",Very good
+"63650","44","200",-3.01,3.38,32.01,Wastewater,Main,Others,S,BET,138.71,Geology_1,20.67,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,133.22,"429",Very bad
+"63654","44","150",-2.76,-3.45,31.16,Stormwater,Main,MUF,S,BET,138.71,Geology_1,20.67,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,133.22,"35",Bad
+"63659","44","250",-1.51,4.87,89.61,Stormwater,Main,Others,S,PVC,138.88,Geology_1,20.63,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,133.22,"55",Very bad
+"63688","42","200",-1.80,0.83,64.48,Wastewater,Main,Others,S,PVC,136.31,Geology_1,20.01,Soiltype_7,No,LandUse_10,RoadClass_1,0.00,95.31,"22",Bad
+"63691","42","200",-2.24,1.60,43.01,Wastewater,Main,Others,S,PVC,136.70,Geology_1,20.09,Soiltype_7,No,LandUse_10,RoadClass_1,0.00,95.31,"976",Very bad
+"63745","8","225",-1.83,4.19,56.45,Wastewater,Main,MUF,S,Others,135.73,Geology_1,20.33,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,111.70,"5",Very good
+"63757","42","200",-1.96,0.38,55.61,Wastewater,Main,Others,S,PVC,135.89,Geology_1,19.95,Soiltype_7,No,LandUse_10,RoadClass_2,0.00,95.31,"34",Bad
+"63907","38","200",-2.11,8.00,66.74,Wastewater,Main,MUF,S,BET,140.79,Geology_3,22.32,Soiltype_6,Yes,LandUse_10,RoadClass_4,0.00,135.27,"0",Very good
+"63977","6","250",-1.25,5.35,36.94,Stormwater,Main,MUF,S,Others,136.33,Geology_3,20.65,Soiltype_7,No,LandUse_30,RoadClass_3,0.00,76.86,"8",Good
+"63978","6","160",-1.17,4.99,38.36,Wastewater,Main,Others,S,Others,136.33,Geology_3,20.65,Soiltype_7,No,LandUse_30,RoadClass_3,0.00,76.86,"0",Very good
+"63992","6","200",-3.19,9.66,28.36,Stormwater,Main,MUF,S,Others,135.87,Geology_3,20.63,Soiltype_7,No,LandUse_30,RoadClass_4,0.00,76.86,"0",Very good
+"64002","8","225",-0.91,2.68,50.30,Wastewater,Main,MUF,S,Others,136.93,Geology_1,20.53,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,61.49,"113",Very bad
+"64428","29","200",-2.01,0.49,37.87,Wastewater,Main,MUF,S,BET,143.98,Geology_3,22.92,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,17.42,"0",Very good
+"64431","29","200",-1.72,2.59,34.44,Wastewater,Main,MUF,S,BET,144.22,Geology_3,22.96,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,17.42,"44",Bad
+"64912","42","200",-2.38,3.86,36.05,Wastewater,Main,MUF,S,BET,144.59,Geology_1,21.45,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,124.00,"8",Good
+"64915","42","200",-2.09,5.64,41.99,Wastewater,Main,MUF,S,BET,144.85,Geology_1,21.52,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,124.00,"0",Very good
+"64918","42","200",-1.96,4.49,23.43,Wastewater,Main,MUF,S,BET,145.07,Geology_1,21.61,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,124.00,"17",Questionable
+"64921","64","225",-1.75,1.99,34.32,Combined,Main,MUF,S,BET,145.09,Geology_1,21.75,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,124.00,"327",Very bad
+"64922","64","225",-2.69,3.33,37.54,Combined,Main,MUF,S,BET,145.18,Geology_1,21.62,Soiltype_6,No,LandUse_10,RoadClass_3,0.00,124.00,"220",Very bad
+"64926","64","225",-1.76,0.94,30.18,Wastewater,Main,MUF,S,BET,145.31,Geology_3,21.42,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,124.00,"17",Questionable
+"64931","55","150",-1.90,3.58,37.40,Combined,Main,MUF,S,BET,144.66,Geology_3,19.62,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,185.49,"0",Very good
+"64954","27","160",-1.94,0.12,32.90,Wastewater,Main,Others,S,PVC,146.09,Geology_3,21.52,Soiltype_6,No,LandUse_10,RoadClass_5,0.00,103.50,"9",Good
+"64955","27","250",-2.03,0.35,87.78,Stormwater,Main,MUF,S,BET,146.23,Geology_3,21.62,Soiltype_5,No,LandUse_10,RoadClass_5,0.00,103.50,"50",Bad
+"64969","64","150",-2.17,2.04,51.90,Combined,Main,MUF,S,BET,144.67,Geology_1,21.98,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,124.00,"29",Bad
+"64970","64","150",-2.17,1.82,53.15,Combined,Main,MUF,S,BET,144.35,Geology_1,21.87,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,124.00,"370",Very bad
+"64998","44","200",-2.19,-2.17,62.78,Stormwater,Main,MUF,S,BET,143.85,Geology_1,22.02,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,96.33,"50",Bad
+"64999","44","200",-1.87,5.42,38.96,Stormwater,Main,MUF,S,BET,144.07,Geology_1,22.03,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,124.00,"13",Questionable
+"65046","51","225",-2.22,0.22,18.26,Combined,Main,MUF,S,BET,144.20,Geology_3,19.07,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,204.96,"162",Very bad
+"65479","46","225",-2.27,2.14,12.76,Combined,Main,MUF,S,BET,146.76,Geology_3,14.80,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,71.74,"0",Very good
+"65514","46","200",-2.01,0.71,54.48,Combined,Main,Others,S,BET,146.90,Geology_3,14.84,Soiltype_14,No,LandUse_10,RoadClass_1,0.00,71.74,"0",Very good
+"65544","46","200",-1.34,7.93,16.09,Combined,Main,MUF,S,BET,146.37,Geology_3,15.77,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,199.84,"75",Very bad
+"65545","46","225",-1.78,1.85,53.42,Combined,Main,MUF,S,BET,146.66,Geology_3,15.95,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,96.33,"33",Bad
+"65548","46","225",-1.89,3.84,38.53,Wastewater,Main,MUF,S,BET,146.84,Geology_3,16.33,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,96.33,"29",Bad
+"65561","26","200",-2.29,1.34,43.51,Combined,Main,MUF,S,BET,145.82,Geology_3,17.60,Soiltype_6,Yes,LandUse_10,RoadClass_2,0.00,199.84,"0",Very good
+"65594","51","200",-1.85,4.76,6.22,Combined,Main,MUF,S,BET,144.11,Geology_3,15.52,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,257.22,"33",Bad
+"65596","27","225",-2.06,1.45,60.67,Combined,Main,MUF,S,BET,143.55,Geology_3,15.63,Soiltype_6,No,LandUse_10,RoadClass_1,6800.00,257.22,"139",Very bad
+"65604","29","200",-1.44,2.73,20.95,Combined,Main,MUF,S,BET,144.14,Geology_3,15.69,Soiltype_6,No,LandUse_10,RoadClass_3,0.00,257.22,"158",Very bad
+"65611","29","200",-2.55,20.25,9.55,Combined,Main,MUF,S,BET,144.10,Geology_3,16.12,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,257.22,"178",Very bad
+"65614","29","200",-4.68,8.61,45.17,Combined,Main,MUF,S,BET,144.00,Geology_3,16.21,Soiltype_6,Yes,LandUse_10,RoadClass_4,0.00,257.22,"9",Good
+"65616","29","200",-2.17,7.92,19.90,Combined,Main,MUF,S,BET,143.86,Geology_3,16.48,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,257.22,"32",Bad
+"65630","48","225",-1.82,1.48,58.47,Combined,Main,MUF,S,BET,144.04,Geology_3,17.12,Soiltype_6,Yes,LandUse_10,RoadClass_1,0.00,257.22,"30",Bad
+"65632","48","225",-2.76,2.43,57.37,Combined,Main,MUF,S,BET,144.40,Geology_3,17.13,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,257.22,"9",Good
+"65642","51","225",-2.73,3.13,60.67,Combined,Main,MUF,S,BET,143.95,Geology_3,18.87,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,204.96,"50",Bad
+"65690","48","225",-2.16,3.27,45.99,Combined,Main,MUF,S,BET,143.20,Geology_3,17.15,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,199.84,"35",Bad
+"65731","48","225",-3.23,7.04,43.56,Combined,Main,MUF,S,BET,142.96,Geology_3,16.44,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,199.84,"23",Bad
+"65746","27","225",-2.69,0.87,54.17,Combined,Main,MUF,S,BET,143.18,Geology_3,15.72,Soiltype_6,No,LandUse_10,RoadClass_1,6800.00,199.84,"100",Very bad
+"65747","27","225",-1.85,-0.26,39.97,Combined,Main,MUF,S,BET,142.87,Geology_3,15.81,Soiltype_6,No,LandUse_10,RoadClass_1,6800.00,199.84,"132",Very bad
+"65749","27","225",-2.32,0.40,51.01,Combined,Main,MUF,S,BET,142.57,Geology_3,15.95,Soiltype_6,No,LandUse_10,RoadClass_1,6800.00,199.84,"130",Very bad
+"65750","27","225",-2.06,0.36,56.79,Combined,Main,MUF,S,BET,142.19,Geology_3,16.18,Soiltype_6,No,LandUse_10,RoadClass_1,6800.00,199.84,"145",Very bad
+"65752","53","250",-2.07,1.31,35.35,Stormwater,Main,MUF,S,BET,142.07,Geology_3,17.38,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,199.84,"9",Good
+"65754","48","200",-1.94,1.48,63.47,Combined,Main,Others,S,BET,145.51,Geology_3,17.34,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,199.84,"60",Very bad
+"65760","48","225",-2.17,1.65,39.06,Combined,Main,MUF,S,BET,145.20,Geology_3,17.20,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,199.84,"10",Good
+"65762","48","225",-1.76,2.29,70.61,Combined,Main,MUF,S,BET,143.61,Geology_3,17.13,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,257.22,"36",Bad
+"65773","52","225",-2.09,0.46,60.41,Combined,Main,MUF,S,BET,141.80,Geology_3,16.46,Soiltype_6,No,LandUse_10,RoadClass_1,6800.00,199.84,"111",Very bad
+"66075","70","225",-1.94,1.05,61.45,Wastewater,Main,MUF,S,BET,150.47,Geology_1,27.10,Soiltype_7,No,LandUse_10,RoadClass_3,0.00,45.09,"18",Questionable
+"66107","40","200",-2.37,3.71,38.80,Wastewater,Main,MUF,S,BET,149.77,Geology_3,28.64,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,71.74,"21",Bad
+"66109","40","200",-2.11,5.26,39.30,Wastewater,Main,MUF,S,BET,149.87,Geology_3,28.98,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,71.74,"20",Questionable
+"66111","40","200",-1.90,5.57,40.47,Wastewater,Main,MUF,S,BET,149.95,Geology_3,29.38,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,71.74,"72",Very bad
+"66113","40","200",-1.96,4.99,39.23,Wastewater,Main,MUF,S,BET,150.02,Geology_3,29.74,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,,"0",Very good
+"66115","40","200",-1.99,3.81,29.02,Wastewater,Main,MUF,S,BET,150.10,Geology_3,30.15,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,,"35",Bad
+"66117","52","200",-2.09,4.13,14.62,Wastewater,Main,MUF,S,BET,150.15,Geology_3,30.39,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,6.15,"0",Very good
+"66118","52","200",-1.93,-1.11,25.12,Wastewater,Main,MUF,S,BET,150.22,Geology_3,30.60,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,6.15,"132",Very bad
+"66213","38","315",-1.90,0.21,26.76,Wastewater,Main,Others,S,PVC,147.96,Geology_3,26.24,Soiltype_6,No,LandUse_10,RoadClass_5,0.00,,"0",Very good
+"66216","38","200",-1.83,13.80,23.30,Wastewater,Main,MUF,S,BET,148.10,Geology_3,26.38,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,,"15",Questionable
+"66250","26","200",-2.11,2.88,42.08,Wastewater,Main,MUF,S,BET,147.99,Geology_1,25.14,Soiltype_6,No,LandUse_10,RoadClass_3,0.00,3.07,"5",Very good
+"66251","26","200",-1.00,-0.38,57.63,Wastewater,Main,MUF,S,BET,148.26,Geology_1,25.41,Soiltype_6,No,LandUse_10,RoadClass_3,0.00,,"77",Very bad
+"66273","70","225",-1.91,1.41,71.51,Wastewater,Main,MUF,S,BET,150.67,Geology_1,27.10,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,45.09,"20",Questionable
+"66285","70","225",-1.95,1.25,41.34,Wastewater,Main,Others,S,BET,150.39,Geology_1,26.77,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,45.09,"5",Very good
+"66536","67","150",-2.07,0.50,26.01,Wastewater,Main,MUF,S,BET,151.55,Geology_3,32.65,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,133.22,"118",Very bad
+"66537","67","150",-2.18,-2.30,20.25,Wastewater,Main,MUF,S,BET,151.60,Geology_3,32.95,Soiltype_6,No,LandUse_10,RoadClass_2,4200.00,133.22,"95",Very bad
+"66538","40","200",-2.34,6.54,33.43,Wastewater,Main,Others,S,PVC,151.60,Geology_3,32.63,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,133.22,"0",Very good
+"66543","40","200",-2.55,8.74,17.24,Wastewater,Main,Others,S,PVC,151.65,Geology_3,32.28,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,133.22,"0",Very good
+"66579","38","200",-2.19,0.75,70.92,Wastewater,Main,MUF,S,BET,150.55,Geology_3,31.86,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,6.15,"108",Very bad
+"66580","38","200",-2.20,1.72,58.80,Wastewater,Main,MUF,S,BET,150.76,Geology_3,32.65,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,6.15,"24",Bad
+"66581","38","200",-2.17,-0.29,72.18,Wastewater,Main,MUF,S,BET,150.98,Geology_3,33.57,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,6.15,"90",Very bad
+"66582","38","200",-2.38,1.36,37.39,Wastewater,Main,MUF,S,PVC,151.11,Geology_3,34.26,Soiltype_6,No,LandUse_10,RoadClass_5,0.00,141.42,"0",Very good
+"66585","49","400",-0.98,4.45,54.09,Stormwater,Main,MUF,S,BET,151.30,Geology_3,34.31,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,141.42,"11",Questionable
+"66593","49","225",-2.30,2.22,60.64,Wastewater,Main,MUF,S,BET,151.35,Geology_3,35.15,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,141.42,"0",Very good
+"66594","49","400",-2.11,6.67,2.79,Stormwater,Main,MUF,S,BET,151.27,Geology_3,33.86,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,141.42,"0",Very good
+"66599","58","200",-2.16,2.46,27.19,Wastewater,Main,MUF,S,BET,151.06,Geology_3,32.12,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,38.94,"0",Very good
+"66600","58","200",-0.49,2.51,32.43,Wastewater,Main,MUF,S,BET,151.11,Geology_3,32.50,Soiltype_6,Yes,LandUse_10,RoadClass_1,0.00,38.94,"0",Very good
+"66604","58","200",-1.69,5.27,29.89,Wastewater,Main,MUF,S,BET,150.99,Geology_3,30.41,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,38.94,"494",Very bad
+"66606","58","200",-1.20,7.04,18.97,Wastewater,Main,MUF,S,BET,151.04,Geology_3,30.31,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,38.94,"0",Very good
+"66607","58","200",-1.40,-3.16,39.30,Wastewater,Main,MUF,S,BET,151.09,Geology_3,30.05,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,38.94,"0",Very good
+"66609","49","200",-1.95,1.87,44.38,Wastewater,Main,Others,S,PVC,151.30,Geology_3,32.83,Soiltype_7,No,LandUse_10,RoadClass_1,0.00,133.22,"0",Very good
+"66610","49","200",-1.49,4.15,25.59,Wastewater,Main,MUF,S,PVC,151.20,Geology_3,32.62,Soiltype_7,No,LandUse_10,RoadClass_1,0.00,133.22,"0",Very good
+"66614","49","200",-1.81,3.78,41.88,Wastewater,Main,Others,S,PVC,151.44,Geology_3,33.24,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,133.22,"0",Very good
+"66615","49","200",-2.08,5.01,30.70,Wastewater,Main,Others,S,PVC,151.55,Geology_3,33.66,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,133.22,"0",Very good
+"66622","49","160",-1.95,3.91,21.43,Wastewater,Main,Others,S,PVC,151.62,Geology_3,34.11,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,133.22,"0",Very good
+"66626","49","250",-2.24,16.00,26.39,Wastewater,Main,MUF,S,BET,151.60,Geology_3,33.19,Soiltype_6,No,LandUse_10,RoadClass_3,0.00,133.22,"82",Very bad
+"66638","49","185",-1.03,9.21,37.80,Wastewater,Main,MUF,S,PVC,151.56,Geology_3,36.20,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,141.42,"40",Bad
+"66643","58","200",-2.38,4.55,39.13,Wastewater,Main,MUF,S,BET,150.97,Geology_3,30.74,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,38.94,"0",Very good
+"66650","38","300",-2.08,6.18,53.76,Wastewater,Main,Others,S,BET,151.22,Geology_3,34.58,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,141.42,"0",Very good
+"66651","49","185",-1.53,3.07,45.78,Wastewater,Main,MUF,S,PVC,151.29,Geology_3,34.31,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,141.42,"120",Very bad
+"66659","58","185",-2.71,1.97,37.08,Wastewater,Main,MUF,S,PVC,151.22,Geology_3,29.75,Soiltype_6,No,LandUse_10,RoadClass_2,4200.00,38.94,"101",Very bad
+"66660","58","200",-1.49,4.88,21.00,Wastewater,Main,MUF,S,BET,150.98,Geology_3,31.09,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,38.94,"4186",Very bad
+"66661","58","200",-2.50,0.88,40.22,Wastewater,Main,MUF,S,BET,151.01,Geology_3,31.76,Soiltype_6,Yes,LandUse_10,RoadClass_2,0.00,38.94,"113",Very bad
+"66662","58","200",-2.70,2.75,30.06,Wastewater,Main,MUF,S,BET,151.20,Geology_3,32.91,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,141.42,"730",Very bad
+"66663","58","200",-2.11,0.75,19.25,Wastewater,Main,MUF,S,BET,151.25,Geology_3,33.32,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,141.42,"0",Very good
+"66664","58","200",-0.73,3.12,29.75,Wastewater,Main,MUF,S,BET,151.29,Geology_3,33.66,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,141.42,"212",Very bad
+"66665","49","225",-1.29,18.18,14.24,Wastewater,Main,MUF,S,BET,151.29,Geology_3,33.98,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,141.42,"23",Bad
+"66671","38","200",-1.49,1.07,46.16,Wastewater,Main,MUF,S,BET,150.35,Geology_3,31.19,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,6.15,"4",Very good
+"66834","39","200",-1.92,0.22,21.24,Combined,Main,Others,S,PVC,152.24,Geology_3,45.06,Soiltype_5,Yes,LandUse_10,RoadClass_3,0.00,80.96,"0",Very good
+"66838","39","200",-1.29,0.38,51.15,Combined,Main,Others,S,PVC,152.14,Geology_3,42.18,Soiltype_5,No,LandUse_10,RoadClass_2,0.00,80.96,"2",Very good
+"66839","39","200",-1.94,0.11,31.78,Combined,Main,Others,S,PVC,152.04,Geology_3,41.26,Soiltype_5,No,LandUse_10,RoadClass_3,0.00,80.96,"0",Very good
+"66840","39","200",-1.59,0.86,56.01,Combined,Main,Others,S,PVC,151.91,Geology_3,40.14,Soiltype_6,No,LandUse_10,RoadClass_3,0.00,80.96,"2",Very good
+"66843","39","200",-1.84,2.43,39.90,Combined,Main,Others,S,PVC,151.78,Geology_3,39.45,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,80.96,"132",Very bad
+"66845","39","200",-1.44,1.84,89.04,Combined,Main,Others,S,PVC,151.61,Geology_3,37.86,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,141.42,"2",Very good
+"66846","39","200",-0.60,0.32,55.79,Combined,Main,Others,S,PVC,151.40,Geology_3,36.56,Soiltype_6,No,LandUse_10,RoadClass_3,0.00,141.42,"0",Very good
+"66847","39","200",-1.16,-1.08,37.22,Combined,Main,Others,S,PVC,151.25,Geology_3,35.88,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,141.42,"0",Very good
+"66885","39","250",-1.80,-0.77,53.32,Combined,Main,Others,S,PVC,152.26,Geology_3,47.51,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,19.47,"0",Very good
+"66889","39","250",-2.01,0.25,47.78,Combined,Main,Others,S,PVC,152.22,Geology_3,49.43,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,,"0",Very good
+"66893","39","250",-1.88,0.67,45.81,Combined,Main,Others,S,PVC,152.17,Geology_3,51.20,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,,"0",Very good
+"66895","39","250",-2.01,1.27,30.96,Combined,Main,Others,S,PVC,152.09,Geology_3,51.52,Soiltype_13,No,LandUse_10,RoadClass_1,0.00,19.47,"0",Very good
+"66900","39","250",-1.69,2.66,35.85,Combined,Main,MUF,S,BET,152.02,Geology_3,51.61,Soiltype_13,No,LandUse_10,RoadClass_1,0.00,19.47,"0",Very good
+"66937","39","200",-1.57,-0.48,46.75,Combined,Main,MUF,S,PVC,151.16,Geology_3,34.96,Soiltype_6,No,LandUse_10,RoadClass_5,0.00,141.42,"0",Very good
+"76646","25","200",-2.10,0.52,14.24,Wastewater,Main,Others,S,PVC,152.47,Geology_1,25.93,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,184.46,"0",Very good
+"76651","25","200",-2.51,3.22,55.14,Wastewater,Main,Others,S,PVC,152.48,Geology_1,26.21,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,171.14,"2",Very good
+"78057","49","185",-1.83,0.88,30.65,Wastewater,Main,MUF,S,BET,151.48,Geology_3,36.14,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,141.42,"0",Very good
+"78059","38","300",-2.01,16.85,6.19,Wastewater,Main,MUF,S,BET,151.31,Geology_3,34.66,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,141.42,"0",Very good
+"78495","23","400",-1.99,0.82,54.44,Combined,Main,Others,S,PVC,152.41,Geology_3,24.10,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,184.46,"0",Very good
+"78665","27","315",-0.01,-1.63,165.95,Wastewater,Main,Others,S,PVC,143.91,Geology_3,15.56,Soiltype_6,No,LandUse_10,RoadClass_2,6800.00,257.22,"0",Very good
+"80682","55","150",-1.76,5.69,8.99,Combined,Main,MUF,S,BET,144.41,Geology_3,19.77,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,209.06,"0",Very good
+"80763","23","250",-1.68,1.17,67.60,Stormwater,Main,Others,S,PVC,142.23,Geology_3,23.19,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,6.15,"0",Very good
+"80940","23","200",-2.72,3.22,16.66,Wastewater,Main,Others,S,PVC,148.46,Geology_1,25.63,Soiltype_6,No,LandUse_10,RoadClass_3,0.00,,"81",Very bad
+"81301","51","225",-2.18,0.62,37.68,Combined,Main,MUF,S,BET,144.44,Geology_3,19.04,Soiltype_6,No,LandUse_10,RoadClass_3,0.00,204.96,"148",Very bad
+"81365","23","250",-1.90,4.04,30.30,Stormwater,Main,Others,S,PVC,142.51,Geology_3,23.35,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,6.15,"0",Very good
+"99513","31","400",-1.49,1.40,93.37,Combined,Main,Others,S,PVC,149.56,Geology_3,12.50,Soiltype_10,Yes,LandUse_10,RoadClass_1,0.00,92.23,"100",Very bad
+"100827","20","125",-2.01,1.44,18.84,Combined,Main,Others,S,PVC,132.26,Geology_3,19.41,Soiltype_7,No,LandUse_10,RoadClass_2,0.00,95.31,"0",Very good
+"100870","20","400",-1.74,2.46,60.43,Combined,Main,Others,S,PVC,149.79,Geology_3,13.91,Soiltype_10,No,LandUse_30,RoadClass_4,0.00,92.23,"0",Very good
+"112096","19","200",-1.68,-4.93,25.36,Combined,Main,Others,S,PVC,152.71,Geology_1,24.76,Soiltype_5,Yes,LandUse_10,RoadClass_3,0.00,171.14,"84",Very bad
+"130324","16","315",-1.97,1.43,16.55,Stormwater,Main,Others,S,PPP,148.24,Geology_4,5.43,Soiltype_7,No,LandUse_10,RoadClass_1,0.00,122.98,"0",Very good
+"130728","51","200",-2.48,10.76,39.01,Wastewater,Others,Others,S,BET,134.43,Geology_3,19.49,Soiltype_7,No,LandUse_10,RoadClass_1,0.00,126.05,"42",Bad
+"134714","35","110",-2.02,4.67,41.26,Wastewater,Others,Others,S,PVC,152.74,Geology_1,24.93,Soiltype_5,No,LandUse_10,RoadClass_4,0.00,171.14,"44",Bad
+"134787","52","150",-1.87,2.79,21.42,Combined,Others,Others,S,BET,152.82,Geology_1,24.70,Soiltype_5,Yes,LandUse_10,RoadClass_3,0.00,171.14,"99",Very bad
+"135165","48","300",-2.12,2.39,13.55,Combined,Main,MUF,S,BET,152.94,Geology_1,24.95,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,194.71,"16",Questionable
+"137248","15","200",-2.21,0.42,39.78,Stormwater,Main,Others,S,PVC,152.49,Geology_3,68.23,Soiltype_4,No,LandUse_10,RoadClass_1,0.00,78.91,"0",Very good
+"138686","34","315",-1.81,-0.20,29.72,Wastewater,Main,Others,S,PVC,154.29,Geology_3,19.62,Soiltype_6,No,LandUse_20,RoadClass_5,0.00,3.07,"0",Very good
+"138888","15","160",-2.09,1.51,24.36,Wastewater,Main,MUF,S,PVC,151.12,Geology_3,23.56,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,248.00,"0",Very good
+"138894","15","160",-2.72,4.18,43.17,Wastewater,Main,MUF,S,PVC,150.99,Geology_3,23.36,Soiltype_3,No,LandUse_10,RoadClass_1,0.00,248.00,"0",Very good
+"139650","51","200",-1.67,3.38,59.58,Wastewater,Others,Others,S,BET,152.86,Geology_1,26.22,Soiltype_7,Yes,LandUse_10,RoadClass_1,0.00,171.14,"96",Very bad
+"140983","7","225",-1.97,0.05,20.71,Combined,Main,MUF,S,Others,152.46,Geology_1,25.75,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,184.46,"39",Bad
+"142833","13","200",-1.96,-3.97,29.27,Stormwater,Main,Others,S,PVC,144.43,Geology_3,19.63,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,209.06,"0",Very good
+"147050","64","225",-2.02,4.61,60.18,Combined,Main,MUF,S,BET,144.59,Geology_1,22.41,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,124.00,"112",Very bad
+"151225","48","225",-1.93,2.49,42.95,Combined,Main,MUF,S,BET,153.13,Geology_1,25.42,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,213.16,"802",Very bad
+"152465","35","200",-2.28,-1.31,61.73,Stormwater,Main,Others,S,BET,146.62,Geology_3,24.43,Soiltype_6,No,LandUse_10,RoadClass_3,0.00,11.27,"5",Very good
+"152749","42","200",-2.37,9.35,42.89,Wastewater,Main,MUF,S,BET,153.21,Geology_1,24.42,Soiltype_13,No,LandUse_10,RoadClass_4,0.00,71.74,"0",Very good
+"152804","42","200",-2.60,1.33,17.46,Stormwater,Main,Others,Others,PVC,144.38,Geology_3,19.81,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,209.06,"0",Very good
+"152805","27","160",-2.08,0.53,55.02,Wastewater,Main,Others,S,PVC,146.32,Geology_3,21.72,Soiltype_5,No,LandUse_10,RoadClass_4,0.00,103.50,"2",Very good
+"152815","13","200",-1.70,-7.69,8.81,Stormwater,Main,Others,S,PVC,144.41,Geology_3,19.77,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,209.06,"0",Very good
+"152816","10","160",-2.07,3.82,29.94,Wastewater,Main,MUF,S,PVC,144.43,Geology_3,19.63,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,209.06,"0",Very good
+"153295","48","150",-1.93,1.87,24.99,Combined,Main,MUF,S,BET,152.84,Geology_1,24.58,Soiltype_5,No,LandUse_10,RoadClass_2,0.00,171.14,"116",Very bad
+"154170","47","300",-2.06,-1.21,7.84,Wastewater,Main,Others,S,BET,152.82,Geology_1,22.38,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,137.32,"0",Very good
+"154172","47","125",-1.71,-2.75,21.63,Wastewater,Others,Others,S,PVC,152.87,Geology_1,22.52,Soiltype_5,No,LandUse_10,RoadClass_2,0.00,137.32,"103",Very bad
+"155589","30","200",-2.02,0.05,11.31,Stormwater,Main,MUF,S,BET,151.54,Geology_3,25.03,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,236.73,"0",Very good
+"155618","70","225",-2.12,-2.73,58.84,Wastewater,Main,Others,S,BET,150.46,Geology_1,26.41,Soiltype_6,Yes,LandUse_10,RoadClass_4,0.00,45.09,"5",Very good
+"155673","51","315",-2.32,1.89,30.91,Combined,Main,Others,S,PVC,134.14,Geology_3,18.73,Soiltype_13,Yes,LandUse_10,RoadClass_4,0.00,72.76,"0",Very good
+"156764","8","200",-2.12,3.17,38.39,Wastewater,Main,MUF,S,Others,136.61,Geology_1,20.47,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,111.70,"66",Very bad
+"158253","44","200",-1.39,0.23,45.16,Wastewater,Main,Others,S,BET,138.94,Geology_1,20.79,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,133.22,"8",Good
+"158255","44","225",-1.41,7.37,39.21,Wastewater,Main,MUF,S,BET,139.09,Geology_1,20.79,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,133.22,"32",Bad
+"158258","42","225",-1.74,2.24,24.63,Stormwater,Main,MUF,S,BET,152.46,Geology_1,26.08,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,171.14,"39",Bad
+"158501","8","315",-1.98,0.71,8.25,Stormwater,Main,Others,S,PVC,153.02,Geology_1,24.86,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,194.71,"0",Very good
+"158548","8","250",-2.01,0.10,5.56,Wastewater,Main,Others,S,PVC,153.02,Geology_1,24.86,Soiltype_5,No,LandUse_10,RoadClass_2,0.00,194.71,"0",Very good
+"158582","8","200",-1.46,2.74,71.50,Stormwater,Main,Others,S,PVC,153.02,Geology_1,25.04,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,194.71,"0",Very good
+"158583","8","200",-1.53,2.83,67.19,Wastewater,Main,Others,S,PVC,153.02,Geology_1,25.04,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,194.71,"0",Very good
+"158723","8","200",-2.10,2.76,64.42,Stormwater,Main,Others,S,PVC,153.02,Geology_1,25.50,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,194.71,"0",Very good
+"158724","8","200",-2.12,2.81,66.12,Wastewater,Main,Others,S,PVC,153.02,Geology_1,25.50,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,194.71,"0",Very good
+"158883","7","200",-2.30,0.94,78.59,Stormwater,Main,Others,S,PVC,153.04,Geology_1,26.54,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,64.56,"0",Very good
+"158886","7","200",-2.24,0.95,76.40,Wastewater,Main,Others,S,PVC,153.03,Geology_1,26.54,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,64.56,"0",Very good
+"159283","7","200",-1.91,2.36,78.00,Wastewater,Main,Others,S,PVC,153.03,Geology_1,25.98,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,194.71,"0",Very good
+"159284","7","200",-1.97,2.37,77.68,Stormwater,Main,Others,S,PVC,153.03,Geology_1,25.98,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,194.71,"0",Very good
+"159375","30","160",-0.03,6.03,67.79,Wastewater,Main,Others,Others,PVC,152.35,Geology_1,26.63,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,212.13,"571",Very bad
+"160111","55","315",-2.22,1.78,44.20,Combined,Main,Others,S,PVC,133.24,Geology_3,19.10,Soiltype_7,No,LandUse_10,RoadClass_2,0.00,133.22,"29",Bad
+"160120","55","150",-2.30,-7.45,6.12,Combined,Others,Others,S,BET,132.51,Geology_3,19.08,Soiltype_7,No,LandUse_10,RoadClass_4,0.00,133.22,"0",Very good
+"160145","46","225",-2.15,1.92,15.04,Combined,Main,Others,S,BET,146.87,Geology_3,16.11,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,96.33,"196",Very bad
+"160169","7","315",-1.69,-5.91,16.62,Stormwater,Main,Others,S,PVC,148.32,Geology_4,5.50,Soiltype_7,No,LandUse_10,RoadClass_1,0.00,122.98,"0",Very good
+"160234","36","400",-1.49,-5.00,97.60,Stormwater,Main,Others,S,BET,147.98,Geology_3,6.45,Soiltype_7,Yes,LandUse_10,RoadClass_4,0.00,83.01,"116",Very bad
+"160267","23","250",-2.15,1.05,27.22,Stormwater,Main,Others,S,BET,148.35,Geology_4,6.00,Soiltype_7,No,LandUse_10,RoadClass_1,6900.00,83.01,"37",Bad
+"160409","7","225",-1.68,-2.66,79.75,Combined,Main,Others,S,BET,131.49,Geology_3,19.19,Soiltype_7,No,LandUse_10,RoadClass_1,0.00,122.98,"55",Very bad
+"160439","7","200",-2.44,4.97,31.15,Wastewater,Main,Others,S,PVC,131.91,Geology_3,19.15,Soiltype_7,No,LandUse_10,RoadClass_2,0.00,122.98,"0",Very good
+"160440","7","315",-2.50,5.23,33.43,Stormwater,Main,Others,S,PVC,131.91,Geology_3,19.15,Soiltype_7,No,LandUse_10,RoadClass_2,0.00,122.98,"7",Good
+"160620","7","500",-2.07,3.38,16.34,Stormwater,Main,Others,S,PPP,133.37,Geology_3,19.12,Soiltype_5,No,LandUse_10,RoadClass_2,0.00,133.22,"0",Very good
+"160622","7","500",-1.83,0.77,44.90,Stormwater,Main,Others,S,PPP,133.27,Geology_3,19.12,Soiltype_7,No,LandUse_10,RoadClass_1,0.00,133.22,"14",Questionable
+"160766","7","500",-1.92,4.28,37.25,Stormwater,Main,Others,S,PPP,132.88,Geology_3,19.08,Soiltype_7,No,LandUse_10,RoadClass_1,0.00,133.22,"0",Very good
+"160848","7","400",-2.13,4.59,25.71,Stormwater,Main,Others,S,PPP,132.72,Geology_3,19.05,Soiltype_7,No,LandUse_10,RoadClass_1,0.00,133.22,"0",Very good
+"161057","65","225",-2.02,-3.42,6.20,Combined,Main,Others,S,BET,130.81,Geology_3,19.12,Soiltype_7,No,LandUse_10,RoadClass_1,0.00,122.98,"0",Very good
+"161917","64","250",-2.00,-0.98,7.52,Stormwater,Main,MUF,S,BET,151.95,Geology_3,24.22,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,184.46,"141",Very bad
+"162023","34","250",-1.98,4.60,29.78,Stormwater,Main,Others,S,PVC,148.52,Geology_4,5.74,Soiltype_7,No,LandUse_10,RoadClass_3,0.00,122.98,"0",Very good
+"162024","34","200",-2.00,-3.33,2.61,Stormwater,Main,Others,S,PVC,148.45,Geology_4,5.70,Soiltype_7,No,LandUse_10,RoadClass_2,0.00,122.98,"0",Very good
+"162025","34","200",-2.28,5.14,33.59,Wastewater,Main,Others,S,PVC,148.52,Geology_4,5.74,Soiltype_7,No,LandUse_10,RoadClass_3,0.00,122.98,"3",Very good
+"162144","6","200",-2.26,9.38,44.83,Wastewater,Main,Others,S,PVC,136.54,Geology_3,19.26,Soiltype_6,No,LandUse_10,RoadClass_3,0.00,128.10,"0",Very good
+"162145","6","400",-2.25,9.42,42.76,Stormwater,Main,Others,S,PVC,136.54,Geology_3,19.23,Soiltype_6,No,LandUse_10,RoadClass_3,0.00,128.10,"0",Very good
+"162153","46","200",-2.32,-0.03,51.83,Stormwater,Main,MUF,S,PVC,146.61,Geology_3,14.90,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,71.74,"0",Very good
+"162196","46","200",-2.11,0.54,26.39,Stormwater,Main,MUF,S,PVC,146.84,Geology_3,14.83,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,71.74,"0",Very good
+"162200","46","225",-1.04,18.02,34.64,Combined,Main,MUF,S,BET,146.75,Geology_3,14.33,Soiltype_14,No,LandUse_10,RoadClass_4,0.00,71.74,"47",Bad
+"162241","6","200",-2.04,4.11,42.67,Wastewater,Main,Others,S,PVC,136.40,Geology_3,19.23,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,128.10,"0",Very good
+"162242","6","200",-2.10,4.07,41.36,Stormwater,Main,Others,S,PVC,136.40,Geology_3,19.23,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,128.10,"0",Very good
+"162338","6","400",-2.06,5.96,29.82,Stormwater,Main,Others,S,PVC,136.60,Geology_3,19.15,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,128.10,"0",Very good
+"162339","6","200",-2.11,6.18,30.50,Wastewater,Main,Others,S,PVC,136.60,Geology_3,19.15,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,128.10,"0",Very good
+"162387","6","400",-1.71,5.02,42.61,Stormwater,Main,Others,S,PVC,136.76,Geology_3,19.08,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,128.10,"0",Very good
+"162388","6","200",-1.86,4.92,40.70,Wastewater,Main,Others,S,PVC,136.76,Geology_3,19.08,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,128.10,"0",Very good
+"162524","51","200",-1.98,0.08,8.31,Wastewater,Main,MUF,S,PVC,136.72,Geology_3,18.93,Soiltype_5,No,LandUse_10,RoadClass_3,0.00,128.10,"68",Very bad
+"162525","51","375",-2.01,0.44,8.57,Stormwater,Main,MUF,S,PVC,136.72,Geology_3,18.93,Soiltype_5,No,LandUse_10,RoadClass_3,0.00,128.10,"79",Very bad
+"162531","6","200",-2.09,4.42,31.28,Wastewater,Main,Others,S,PVC,136.78,Geology_3,18.99,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,128.10,"3",Very good
+"162532","6","400",-2.08,4.76,27.34,Stormwater,Main,Others,S,PVC,136.78,Geology_3,18.99,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,128.10,"0",Very good
+"162694","6","250",-2.11,5.25,69.09,Stormwater,Main,Others,S,PVC,136.88,Geology_3,19.16,Soiltype_6,No,LandUse_10,RoadClass_3,0.00,128.10,"0",Very good
+"162695","6","200",-2.29,-5.49,68.61,Wastewater,Main,Others,S,PVC,136.92,Geology_3,19.16,Soiltype_6,No,LandUse_10,RoadClass_3,0.00,128.10,"0",Very good
+"162700","48","225",-1.91,3.91,44.98,Combined,Main,MUF,S,BET,153.15,Geology_1,25.91,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,65.59,"243",Very bad
+"162827","5","250",-1.72,1.71,72.25,Stormwater,Main,Others,S,PVC,137.38,Geology_3,19.18,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,128.10,"0",Very good
+"162829","5","200",-1.75,1.65,74.18,Wastewater,Main,Others,S,PVC,137.38,Geology_3,19.18,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,128.10,"0",Very good
+"162869","66","300",-2.96,11.74,32.50,Combined,Main,MUF,S,BET,130.03,Geology_3,16.54,Soiltype_13,No,LandUse_10,RoadClass_1,0.00,185.49,"91",Very bad
+"162902","26","150",-1.67,-0.48,27.95,Wastewater,Main,Others,S,BET,145.77,Geology_3,17.96,Soiltype_6,Yes,LandUse_10,RoadClass_2,0.00,152.70,"4",Very good
+"162925","5","400",-2.81,-3.76,26.63,Stormwater,Main,Others,S,PPP,153.23,Geology_1,23.91,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,96.33,"0",Very good
+"162928","5","200",-2.14,2.88,41.03,Wastewater,Main,Others,S,PVC,153.22,Geology_1,24.03,Soiltype_13,No,LandUse_10,RoadClass_3,0.00,96.33,"0",Very good
+"162929","5","200",-2.39,2.01,25.93,Wastewater,Main,Others,S,PVC,153.23,Geology_1,23.91,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,96.33,"0",Very good
+"162969","5","400",-2.04,0.17,29.16,Stormwater,Main,Others,S,PPP,153.24,Geology_1,24.05,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,96.33,"0",Very good
+"162970","5","200",-2.06,-0.21,29.15,Wastewater,Main,Others,S,PVC,153.24,Geology_1,24.05,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,96.33,"0",Very good
+"163027","5","400",-2.52,1.52,43.10,Stormwater,Main,Others,S,PPP,153.22,Geology_1,24.09,Soiltype_13,No,LandUse_10,RoadClass_3,0.00,96.33,"2",Very good
+"163033","5","160",-1.97,0.09,59.45,Wastewater,Main,Others,S,PVC,153.26,Geology_1,24.01,Soiltype_6,No,LandUse_10,RoadClass_5,0.00,96.33,"0",Very good
+"163040","5","200",-1.99,0.05,56.47,Wastewater,Main,Others,S,PVC,153.26,Geology_1,24.23,Soiltype_6,No,LandUse_10,RoadClass_5,0.00,96.33,"0",Very good
+"163041","5","400",-1.98,0.01,55.72,Stormwater,Main,Others,S,PPP,153.26,Geology_1,24.22,Soiltype_6,No,LandUse_10,RoadClass_5,0.00,96.33,"0",Very good
+"163043","5","200",0.22,5.48,51.58,Wastewater,Main,Others,S,PVC,153.30,Geology_3,24.30,Soiltype_6,No,LandUse_10,RoadClass_5,0.00,96.33,"0",Very good
+"163044","5","400",0.14,5.10,53.96,Stormwater,Main,Others,S,PPP,153.30,Geology_3,24.30,Soiltype_6,No,LandUse_10,RoadClass_5,0.00,96.33,"0",Very good
+"163061","5","200",-1.94,-0.10,58.77,Stormwater,Main,Others,S,PVC,153.26,Geology_1,24.01,Soiltype_6,No,LandUse_10,RoadClass_5,0.00,96.33,"0",Very good
+"163225","5","160",-1.65,1.14,74.08,Wastewater,Main,Others,S,PVC,153.29,Geology_3,23.61,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,96.33,"0",Very good
+"163226","5","200",-1.59,1.10,74.05,Stormwater,Main,Others,S,PVC,153.29,Geology_3,23.61,Soiltype_6,No,LandUse_10,RoadClass_4,0.00,96.33,"0",Very good
+"163387","64","225",-1.21,-1.06,11.94,Combined,Main,Others,S,BET,145.26,Geology_1,21.50,Soiltype_6,No,LandUse_10,RoadClass_3,0.00,124.00,"0",Very good
+"163388","64","225",-2.47,3.74,53.31,Combined,Main,MUF,S,BET,144.92,Geology_1,21.98,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,124.00,"53",Very bad
+"163389","64","225",-2.06,5.03,13.54,Combined,Main,MUF,S,BET,145.01,Geology_1,21.87,Soiltype_6,No,LandUse_10,RoadClass_3,0.00,124.00,"794",Very bad
+"163422","5","200",-2.10,-0.10,23.29,Wastewater,Main,Others,S,PVC,153.00,Geology_1,22.87,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,72.76,"0",Very good
+"163423","5","315",-2.19,-0.11,84.34,Stormwater,Main,Others,S,PPP,153.02,Geology_1,22.96,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,72.76,"0",Very good
+"163436","5","315",-1.55,2.37,51.38,Stormwater,Main,Others,S,PPP,153.00,Geology_1,22.71,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,72.76,"0",Very good
+"163438","5","200",-1.19,2.93,86.70,Wastewater,Main,Others,S,PVC,153.01,Geology_1,22.68,Soiltype_5,No,LandUse_10,RoadClass_2,0.00,72.76,"0",Very good
+"163662","5","315",-2.28,3.53,46.37,Stormwater,Main,Others,S,PPP,153.03,Geology_1,22.54,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,72.76,"0",Very good
+"163730","5","315",-2.02,-3.65,43.91,Stormwater,Main,Others,S,PPP,153.03,Geology_1,22.35,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,72.76,"0",Very good
+"163886","5","315",-2.37,1.07,73.48,Stormwater,Main,Others,S,PVC,153.13,Geology_1,24.40,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,213.16,"0",Very good
+"163891","5","200",-2.02,0.69,84.92,Wastewater,Main,Others,S,PVC,153.13,Geology_1,24.35,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,213.16,"0",Very good
+"163917","4","200",-1.91,0.56,67.22,Wastewater,Main,Others,S,PVC,153.08,Geology_1,24.83,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,194.71,"0",Very good
+"163922","4","315",-2.05,0.84,66.12,Stormwater,Main,Others,S,PVC,153.11,Geology_1,24.60,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,213.16,"0",Very good
+"163925","4","200",-2.04,0.84,64.98,Wastewater,Others,Others,S,PVC,153.11,Geology_1,24.55,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,213.16,"8",Good
+"163957","36","200",-2.08,0.12,22.68,Stormwater,Main,Others,S,BET,148.42,Geology_4,6.38,Soiltype_7,No,LandUse_10,RoadClass_3,0.00,83.01,"380",Very bad
+"164072","5","315",-2.04,0.36,47.70,Stormwater,Main,Others,S,PVC,153.14,Geology_1,24.61,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,213.16,"0",Very good
+"164073","5","200",-2.02,0.34,45.09,Wastewater,Main,Others,S,PVC,153.14,Geology_1,24.58,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,213.16,"0",Very good
+"164083","5","200",-1.86,1.04,48.12,Wastewater,Main,Others,S,PVC,153.14,Geology_1,24.83,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,213.16,"0",Very good
+"164084","5","315",-1.88,1.02,45.58,Stormwater,Main,Others,S,PVC,153.14,Geology_1,24.83,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,213.16,"0",Very good
+"164092","5","250",-1.61,-2.85,81.44,Stormwater,Main,Others,S,PVC,153.16,Geology_1,25.07,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,213.16,"0",Very good
+"164093","5","200",-1.59,2.91,81.05,Wastewater,Main,Others,S,PVC,153.16,Geology_1,25.07,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,213.16,"0",Very good
+"164105","5","200",-2.08,-0.22,63.33,Wastewater,Main,Others,S,PVC,153.03,Geology_1,23.03,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,72.76,"0",Very good
+"164141","5","200",-1.95,0.43,11.26,Wastewater,Others,Others,S,PVC,153.25,Geology_3,23.28,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,96.33,"0",Very good
+"164142","4","200",-2.26,2.72,45.27,Wastewater,Others,Others,S,PVC,153.28,Geology_3,23.33,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,96.33,"0",Very good
+"164143","5","200",-2.01,0.66,14.08,Stormwater,Others,Others,S,PVC,153.25,Geology_3,23.28,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,96.33,"0",Very good
+"164152","4","200",-1.63,-2.79,45.83,Stormwater,Main,Others,S,PVC,153.28,Geology_3,23.33,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,96.33,"0",Very good
+"164182","5","250",-1.97,4.37,61.74,Stormwater,Main,Others,S,PVC,153.17,Geology_1,25.40,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,65.59,"0",Very good
+"164189","5","200",-1.86,4.49,61.67,Wastewater,Main,Others,S,PVC,153.17,Geology_1,25.40,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,65.59,"0",Very good
+"164198","5","250",-2.63,3.67,70.18,Stormwater,Main,Others,S,PVC,153.19,Geology_1,26.04,Soiltype_13,No,LandUse_10,RoadClass_1,0.00,65.59,"0",Very good
+"164199","5","200",-2.97,3.08,79.02,Wastewater,Main,Others,S,PVC,153.19,Geology_1,26.04,Soiltype_13,No,LandUse_10,RoadClass_1,0.00,65.59,"0",Very good
+"164359","63","225",-1.88,0.97,48.70,Combined,Main,MUF,S,BET,143.91,Geology_3,15.56,Soiltype_6,No,LandUse_10,RoadClass_1,6800.00,257.22,"124",Very bad
+"164394","4","315",-2.23,0.77,140.01,Stormwater,Main,Others,S,PPP,153.09,Geology_1,23.26,Soiltype_5,No,LandUse_10,RoadClass_2,0.00,12.30,"0",Very good
+"164421","4","200",-2.78,7.09,27.89,Stormwater,Main,Others,S,PVC,153.31,Geology_3,23.32,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,96.33,"0",Very good
+"164422","4","200",-2.52,6.99,29.11,Wastewater,Main,Others,S,PVC,153.31,Geology_3,23.32,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,96.33,"0",Very good
+"164437","5","315",-1.75,1.06,52.86,Stormwater,Main,Others,S,PVC,153.12,Geology_1,24.85,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,213.16,"0",Very good
+"164438","5","200",-1.79,1.00,53.59,Wastewater,Others,Others,S,PVC,153.12,Geology_1,24.85,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,213.16,"0",Very good
+"164459","4","200",-1.72,11.08,3.55,Wastewater,Main,Others,S,PVC,153.33,Geology_3,23.38,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,96.33,"0",Very good
+"164460","4","200",-1.94,-6.59,6.08,Stormwater,Main,Others,S,PVC,153.33,Geology_3,23.31,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,96.33,"0",Very good
+"164481","4","200",-2.77,3.37,64.46,Wastewater,Main,Others,S,PVC,153.16,Geology_1,26.56,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,65.59,"0",Very good
+"164482","4","315",-2.08,2.10,59.02,Stormwater,Main,Others,S,PVC,153.12,Geology_1,25.16,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,213.16,"0",Very good
+"164507","51","375",-2.29,1.00,41.19,Stormwater,Main,Others,S,BET,136.76,Geology_3,18.73,Soiltype_13,No,LandUse_10,RoadClass_3,0.00,79.93,"25",Bad
+"164509","51","375",-2.06,-0.52,29.55,Stormwater,Main,Others,S,BET,136.68,Geology_3,18.74,Soiltype_13,No,LandUse_10,RoadClass_2,0.00,79.93,"239",Very bad
+"164510","51","375",-1.62,1.87,14.49,Stormwater,Main,Others,S,BET,136.65,Geology_3,18.71,Soiltype_13,No,LandUse_10,RoadClass_1,0.00,79.93,"96",Very bad
+"164576","4","200",-2.03,2.12,58.61,Wastewater,Main,Others,S,PVC,153.12,Geology_1,25.16,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,213.16,"0",Very good
+"164577","4","315",-1.90,2.42,41.06,Stormwater,Main,Others,S,PVC,153.13,Geology_1,25.42,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,213.16,"0",Very good
+"164592","4","315",-1.93,2.23,52.90,Stormwater,Main,Others,S,PVC,153.14,Geology_1,25.63,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,213.16,"0",Very good
+"164593","4","200",-1.92,2.36,41.53,Wastewater,Main,Others,S,PVC,153.13,Geology_1,25.42,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,213.16,"0",Very good
+"164617","4","315",-1.94,4.02,45.71,Stormwater,Main,Others,S,PVC,153.14,Geology_1,25.91,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,65.59,"0",Very good
+"164618","4","200",-1.98,2.23,52.54,Wastewater,Main,Others,S,PVC,153.14,Geology_1,25.63,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,213.16,"0",Very good
+"164631","4","200",-1.97,3.92,45.83,Wastewater,Main,Others,S,PVC,153.15,Geology_1,25.91,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,65.59,"0",Very good
+"164632","4","315",-2.16,4.12,48.92,Stormwater,Main,Others,S,PVC,153.15,Geology_1,26.50,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,65.59,"0",Very good
+"164750","4","315",-2.08,2.32,18.97,Stormwater,Main,Others,S,PPP,153.12,Geology_1,23.42,Soiltype_13,No,LandUse_10,RoadClass_1,0.00,12.30,"0",Very good
+"164856","34","250",-2.00,8.81,3.18,Stormwater,Main,Others,Others,BET,148.45,Geology_4,5.70,Soiltype_7,No,LandUse_10,RoadClass_2,0.00,122.98,"390",Very bad
+"165016","4","630",-2.01,0.67,70.65,Stormwater,Main,Others,S,PPP,153.09,Geology_1,24.57,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,194.71,"0",Very good
+"165409","4","200",-1.93,0.27,10.98,Wastewater,Main,Others,S,PVC,152.98,Geology_1,22.80,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,72.76,"0",Very good
+"165444","4","630",-1.30,-3.02,97.03,Stormwater,Main,Others,S,PPP,153.08,Geology_1,25.30,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,194.71,"0",Very good
+"165445","4","200",-1.34,3.01,97.76,Wastewater,Main,Others,S,PVC,153.08,Geology_1,25.30,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,194.71,"0",Very good
+"165486","4","200",-2.03,0.69,87.00,Wastewater,Main,Others,S,PVC,153.10,Geology_1,24.51,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,194.71,"0",Very good
+"165487","4","630",-1.95,-0.56,65.46,Stormwater,Main,Others,S,PPP,153.08,Geology_1,24.83,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,194.71,"0",Very good
+"165719","4","200",-1.80,-0.65,38.28,Stormwater,Main,Others,S,PVC,148.40,Geology_4,6.19,Soiltype_7,No,LandUse_10,RoadClass_3,0.00,83.01,"91",Very bad
+"166322","46","225",-1.60,-0.22,17.81,Combined,Main,MUF,S,BET,146.46,Geology_3,15.90,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,199.84,"0",Very good
+"168687","3","315",-2.01,0.09,44.07,Stormwater,Main,Others,S,PPP,150.03,Geology_1,25.65,Soiltype_7,No,LandUse_10,RoadClass_1,0.00,45.09,"2",Very good
+"168729","51","200",-3.37,4.67,38.23,Wastewater,Main,Others,S,BET,136.47,Geology_3,18.35,Soiltype_13,Yes,LandUse_10,RoadClass_3,0.00,79.93,"264",Very bad
+"168744","3","315",-1.89,1.18,40.53,Stormwater,Main,Others,S,PPP,150.22,Geology_1,25.80,Soiltype_7,No,LandUse_10,RoadClass_1,0.00,45.09,"0",Very good
+"169669","60","225",-1.93,2.32,47.41,Combined,Main,MUF,S,BET,151.13,Geology_3,19.01,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,63.54,"0",Very good
+"170138","60","225",-2.16,2.26,41.17,Combined,Main,MUF,S,BET,150.86,Geology_3,18.33,Soiltype_5,No,LandUse_10,RoadClass_1,0.00,63.54,"14",Questionable
+"170836","48","225",-1.85,2.40,76.12,Combined,Main,MUF,S,BET,144.85,Geology_3,17.16,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,257.22,"18",Questionable
+"171855","60","200",-1.98,0.09,27.79,Stormwater,Main,Others,S,PVC,151.62,Geology_3,21.11,Soiltype_3,No,LandUse_10,RoadClass_1,0.00,63.54,"4",Very good
+"172075","51","225",-1.94,0.32,32.42,Combined,Main,MUF,S,BET,144.03,Geology_3,19.10,Soiltype_6,No,LandUse_10,RoadClass_2,0.00,204.96,"112",Very bad
+"172077","51","225",-1.99,-0.47,9.55,Combined,Main,MUF,S,BET,144.30,Geology_3,19.08,Soiltype_6,No,LandUse_10,RoadClass_3,0.00,204.96,"100",Very bad
+"172082","51","225",-2.01,0.22,44.65,Combined,Main,Others,S,BET,144.70,Geology_3,19.03,Soiltype_6,No,LandUse_10,RoadClass_1,0.00,152.70,"0",Very good
